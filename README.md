@@ -5,7 +5,7 @@ Implementation and evaluation of three recommender system algorithms (Naive Meth
 ## Files
  
 ```
-├── recommender_systems_group40.ipynb   # Main notebook — all three algorithms
+├── recommender_systems_group40.ipynb   # Main notebook, all three algorithms
 ├── visualizations_group40.ipynb        # Result plots and analysis
 ├── ratings.dat                         # 1M ratings (UserID::MovieID::Rating::Timestamp)
 ├── movies.dat                          # ~3,900 movies (MovieID::Title::Genres)
@@ -16,7 +16,7 @@ Implementation and evaluation of three recommender system algorithms (Naive Meth
  
 ## Dataset
  
-[MovieLens 1M](https://grouplens.org/datasets/movielens/1m/) — 1,000,209 ratings by 6,040 users on ~3,900 movies. Download and place the `.dat` files in the project root before running the notebooks.
+[MovieLens 1M](https://grouplens.org/datasets/movielens/1m/) : 1,000,209 ratings by 6,040 users on ~3,900 movies. Download and place the `.dat` files in the project root before running the notebooks.
  
 ## Requirements
  
