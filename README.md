@@ -1,6 +1,6 @@
 # Movie Recommender Systems
  
-Implementation and evaluation of three recommender system algorithms on the **MovieLens 1M** dataset, using 5-fold cross-validation and RMSE/MAE metrics.
+Implementation and evaluation of three recommender system algorithms (Naive Methods, UV Matrix Decomposition, and Matrix Factorization) on the **MovieLens 1M** dataset, using 5-fold cross-validation and RMSE/MAE metrics.
  
 ## Files
  
