@@ -4,13 +4,13 @@ Implementation and evaluation of three recommender system algorithms (Naive Meth
  
 ## Files
  
--recommender_systems_group40.ipynb   # Main notebook, all three algorithms
--visualizations_group40.ipynb        # Result plots and analysis
--ratings.dat                         # 1M ratings (UserID::MovieID::Rating::Timestamp)
--movies.dat                          # ~3,900 movies (MovieID::Title::Genres)
--users.dat                           # 6,040 users (UserID::Gender::Age::Occupation::Zip)
--users_mf.csv                        # Learned user latent factors (matrix factorization)
--movies_mf.csv                       # Learned movie latent factors (matrix factorization)
+- recommender_systems_group40.ipynb   # Main notebook, all three algorithms
+- visualizations_group40.ipynb        # Result plots and analysis
+- ratings.dat                         # 1M ratings (UserID::MovieID::Rating::Timestamp)
+- movies.dat                          # ~3,900 movies (MovieID::Title::Genres)
+- users.dat                           # 6,040 users (UserID::Gender::Age::Occupation::Zip)
+- users_mf.csv                        # Learned user latent factors (matrix factorization)
+- movies_mf.csv                       # Learned movie latent factors (matrix factorization)
 
  
 ## Dataset
